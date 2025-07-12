@@ -4,7 +4,7 @@
 
 This project simulates an **AI agent navigating a hexagonal grid** world to collect treasures using the **Uniform Cost Search (UCS)** algorithm. The environment includes **traps**, **rewards**, **obstacles**, and **energy constraints**, making the search more realistic and challenging.
 
-This was developed as part of an Artificial Intelligence course project.
+This was developed as part of the Artificial Intelligence course project. This was a group project. 
 
 ---
 
